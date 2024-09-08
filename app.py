@@ -1,5 +1,4 @@
-from flask import Flask, render_template, request
-import jsonify
+from flask import Flask, render_template, request , jsonify
 import requests
 import pickle
 import numpy as np
